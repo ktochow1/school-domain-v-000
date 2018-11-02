@@ -26,7 +26,7 @@ class School
   end
 
   def sort
-    @roster.values.sort
+    @roster.sort
   end
   
 #   sorted = change.sort # Ascending sort
